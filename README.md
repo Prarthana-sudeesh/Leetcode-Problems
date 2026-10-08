@@ -12,12 +12,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -35,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prarthana-sudeesh/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
