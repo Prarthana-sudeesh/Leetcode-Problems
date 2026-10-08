@@ -5,17 +5,6 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        array1=[]
-        array2=[]
-        for i in s:
-            array1.append(i)
-        for j in t:
-            array2.append(j)
-        array1.sort()
-        array2.sort()
-        if array1== array2:
-            return True
-        else:
-            return False
+        return sorted(s) == sorted(t)
 
         
